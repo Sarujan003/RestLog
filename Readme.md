@@ -7,7 +7,7 @@ This project was built as part of the technical evaluation for **NextGen Innovat
 ---
 
 ## 📹 Video Walkthrough
-- **Walkthrough Link:** [Watch the 1-Minute Demo on Loom / Video](PASTE_YOUR_LOOM_OR_DRIVE_LINK_HERE)
+- **Walkthrough Link:** [Watch the 1-Minute Demo on Loom / Video](https://drive.google.com/file/d/1BXP8U9jn4eLWfFqeKRF9XOf8_HGK81_o/view?usp=sharing)
 > *The video demonstrates logging a new entry, data persistence across app restarts via AsyncStorage, configuring the sleep score, viewing trends/insights, and deleting an entry from history.*
 
 ---
