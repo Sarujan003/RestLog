@@ -92,7 +92,7 @@ Installation
 
 1.  Clone the repository:
 
-    git clone https://github.com/<YOUR_GITHUB_USERNAME>/RestLog.git
+    git clone https://github.com/Sarujan003/RestLog.git
     cd RestLog
 
 2.  Install dependencies:
